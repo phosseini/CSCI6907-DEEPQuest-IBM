@@ -6,4 +6,12 @@ The George Washington University - DeepQA IBM course project
 
 We are **Sherlocks!** 
 
-In this project, we are going to develop an application like Watson [Alchemy](https://www.ibm.com/watson/developercloud/natural-language-understanding.html). 
+In this project, we are going to develop an application like Watson [Alchemy](https://www.ibm.com/watson/developercloud/natural-language-understanding.html) for Spanish. In particular, our application will include the following components:
+
+- Sentiment Analysis
+- Semantic Role labeling
+- Keyword Extraction
+- Relation Extraction
+- Named Entity Recognition
+
+## Phase 1 (Ongoing)
