@@ -1,0 +1,31 @@
+Usage
+•	Keywords are a set of major words in a document that give high-level description of the content of the document. 
+•	Extracting keywords manually are very difficult and time consuming process. Therefore, there is in need for process to extract keywords from documents automatically.
+•	Keyword extraction is a process in which a set of words are selected that gives the meaning of the whole document. 
+•	Keyword extraction, also known as key-phrase extraction is an area of text mining that intends to identify the most useful and important words, phrases that are also called terms. 
+
+Process
+
+•	Keyword extraction from the documents includes so many processes. 
+•	First process is to select the documents; the documents can be of text or html, or pdf, etc. 
+•	The next process is to pre-process the document that involves removing the stop words, stem the words. 
+•	After pre-processing the keywords are extracted by using the extraction techniques. 
+•	There are various keyword extraction approaches such as 
+o	statistics approach
+o	linguistic approach
+o	machine learning approach (It consider as a classification problem)
+•	Statistical methods are simple and don’t need training data. The methods such as term frequency, word co-occurrence, TF-IDF, N-gram are statistical methods. 
+•	Linguistic methods use words, sentences and documents linguistic features such as part of speech, syntax and semantic. 
+•	
+
+Advantages
+•	Keywords are useful for scanning large documents in a short time. 
+•	Keyword is used for extracting exact information as per user requirements. 
+•	Various applications can take advantage of it such as information retrieval, automatic indexing, text summarization, classification, clustering, topic detection and tracking, web searches, report generation, filtering, cataloging, etc.
+•	Keyword extraction is an essential technique for web page retrieval, document retrieval, document clustering, text mining, and so on. 
+•	 
+•	
+
+Disadvantages
+
+
